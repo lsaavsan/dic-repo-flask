@@ -1,2 +1,5 @@
 # dic-repo-flask
-repositorio 
+
+```bash
+git clone https://github.com/lsaavsan/dic-repo-flask.git
+```
