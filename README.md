@@ -45,7 +45,7 @@ Este proyecto se realiza para el aprendizaje de creación de APIS.
    pip freeze > requirements.txt
    ```
 ## Estructura
-
+```plaintext
 DIC-REPO-FLASK/
 ├── .venv/                 # Entorno virtual.
 ├── README.md              # Proporciona una descripción clara y detallada de un proyecto.
@@ -54,5 +54,5 @@ DIC-REPO-FLASK/
 ├── requirements.txt       # Dependencias del proyecto.
 └── requirements.dev.txt   # Lista las dependencias específicas necesarias para el desarrollo del proyecto.
 
-
+```
 
