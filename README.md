@@ -49,7 +49,7 @@ Este proyecto se realiza para el aprendizaje de creación de APIS.
 DIC-REPO-FLASK/
 ├── .venv/                 # Entorno virtual.
 ├── README.md              # Proporciona una descripción clara y detallada de un proyecto.
-├── .gitignore             # Especifica qué archivos o directorios debe ignorar Git para no rastrearlos ni incluirlos en el repositorio.
+├── .gitignore             # Especifica qué archivos o directorios debe ignorar Git para no rastrearlos ni incluirlos.
 ├── LICENSE                # Define los términos legales bajo los cuales otros pueden usar, modificar y distribuir tu proyecto.
 ├── requirements.txt       # Dependencias del proyecto.
 └── requirements.dev.txt   # Lista las dependencias específicas necesarias para el desarrollo del proyecto.
