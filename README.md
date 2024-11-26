@@ -1,11 +1,12 @@
 # dic-repo-flask
 
 ```bash
+1.clonar repositorio
 git clone https://github.com/lsaavsan/dic-repo-flask.git
 cd dic-repo-flask
 code .
 ```
-2.Activar entorno virtualclear
+2.Activar entorno virtual
 
 ```bash
 pip install virtualenv
