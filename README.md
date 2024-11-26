@@ -1,6 +1,4 @@
 # Mi Proyecto: dic-repo-flask
-## Descripción
-Este proyecto se realiza para el aprendizaje de creación de APIS.
 
 ## Índice
 - [Descripción](#descripción)
@@ -9,6 +7,11 @@ Este proyecto se realiza para el aprendizaje de creación de APIS.
 - [Características](#características)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
+- [Autor](#Autor)
+
+
+## Descripción
+Este proyecto se realiza para el aprendizaje de creación de APIS.
 
 ## Instalación
 1. Clona este repositorio:
@@ -56,3 +59,16 @@ DIC-REPO-FLASK/
 
 ```
 
+## Características
+
+## Contribuciones
+
+
+
+
+## Licencia
+Este proyecto está bajo la Licencia MIT.
+
+## Autor
+👩‍💻 **Lutzgardo Saavedra** - *Desarrollador*  
+[GitHub](https://github.com/lsaavsan) | [LinkedIn](https://linkedin.com/in/lsaavsan)  
