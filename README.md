@@ -40,8 +40,11 @@ Este proyecto se realiza para el aprendizaje de creación de APIS.
    pip install -r requirements.txt
    ```
 
+8. Grabar lista de liberias instalads en archivo requirements.txt:
+   ```bash
+   pip freeze > requirements.txt
+   ```
+## Uso
 
-
-pip freeze > requirements.txt
 
 
