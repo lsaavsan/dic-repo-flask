@@ -71,4 +71,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ## Autor
 👩‍💻 **Lutzgardo Saavedra** - *Desarrollador*  
-[GitHub](https://github.com/lsaavsan) | [LinkedIn](https://linkedin.com/in/lsaavsan)  
+[GitHub](https://github.com/lsaavsan) | [LinkedIn](https://www.linkedin.com/in/lutzgardo-saavedra-755b9ba0/)  
