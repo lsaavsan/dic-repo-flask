@@ -1,40 +1,47 @@
-# dic-repo-flask
+# Mi Proyecto: dic-repo-flask
+## Descripción
+Este proyecto se realiza para el aprendizaje de creación de APIS.
 
-1.clonar repositorio
-```bash
-git clone https://github.com/lsaavsan/dic-repo-flask.git
-cd dic-repo-flask
-code .
-```
-2.Activar entorno virtual
+## Índice
+- [Descripción](#descripción)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Características](#características)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
 
-```bash
-pip install virtualenv
-virtualenv .venv
-source .venv/Scripts/activate
+## Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/lsaavsan/dic-repo-flask.git
+   ```
+2. Navega al directorio:
+   ```bash
+   cd dic-repo-flask
+   ```
+3. Ingresa a visual studio code:
+   ```bash
+   code .
+   ```
+4. Instala el entorno virtual:
+   ```bash
+   pip install virtualenv
+   ```
+5. Crea el entorno virtual:
+   ```bash
+   virtualenv .venv
+   ```
+6. Activa el entorno virtual:
+   ```bash
+   source .venv/Scripts/activate
+   ```
+7. Instala dependencias en el entorno virtual:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
+
 pip freeze > requirements.txt
-pip install -r requirements.txt
-```
-# 1️⃣ Clonar el repositorio y navegar al directorio
-git clone https://github.com/lsaavsan/dic-repo-flask.git
-cd dic-repo-flask
 
-# 2️⃣ Abrir el proyecto en Visual Studio Code (opcional)
-code .
 
-# 3️⃣ Instalar virtualenv si aún no está instalado
-pip install virtualenv
-
-# 4️⃣ Crear y activar el entorno virtual
-# En Windows:
-virtualenv .venv
-source .venv/Scripts/activate
-# En Linux/macOS:
-# virtualenv .venv
-# source .venv/bin/activate
-
-# 5️⃣ Instalar dependencias desde requirements.txt
-pip install -r requirements.txt
-
-# 6️⃣ (Opcional) Si agregas nuevas dependencias, actualiza requirements.txt
-pip freeze > requirements.txt
