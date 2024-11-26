@@ -5,7 +5,7 @@ Este proyecto se realiza para el aprendizaje de creación de APIS.
 ## Índice
 - [Descripción](#descripción)
 - [Instalación](#instalación)
-- [Uso](#uso)
+- [Estructura del proyecto](#Estructura)
 - [Características](#características)
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
@@ -44,7 +44,15 @@ Este proyecto se realiza para el aprendizaje de creación de APIS.
    ```bash
    pip freeze > requirements.txt
    ```
-## Uso
+## Estructura
+
+DIC-REPO-FLASK/
+├── .venv/                 # Entorno virtual.
+├── README.md              # Proporciona una descripción clara y detallada de un proyecto.
+├── .gitignore             # Especifica qué archivos o directorios debe ignorar Git para no rastrearlos ni incluirlos en el repositorio.
+├── LICENSE                # Define los términos legales bajo los cuales otros pueden usar, modificar y distribuir tu proyecto.
+├── requirements.txt       # Dependencias del proyecto.
+└── requirements.dev.txt   # Lista las dependencias específicas necesarias para el desarrollo del proyecto.
 
 
 
