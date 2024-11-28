@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">
+    </head>
+    <body>
+        <h1>Bienvenido</h1>
+        <img src="{{url_for('static',filename='image/37145.jpg')}}" alt="imagen">
+        
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Et velit molestias quos labore laboriosam sapiente? </p>
+        <a href="..\app.py">Enlace</a>
+        
+        <form action="">
+            <label for="vnombre">Nombre</label>
+            <input type="text" name="vnombre" id="idnombre">
+
+            <label for="vapellido">Apellido</label>
+            <input type="text" name="vapellido" id="idapellido">
+
+            <label for="vedad">Edad</label>
+            <input type="text" name="vedad" id="idedad">
+
+            <button type="submit">Click</button>
+        </form>
+    </body>
+</html>
