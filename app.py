@@ -7,9 +7,24 @@ app = Flask(__name__)
 
 # primer endpoint
 @app.route("/", methods=["GET"])
-def home():
+def root():
     return render_template('index.html')
 
+
+# segundo endpoint
+@app.route("/home", methods=["GET"])
+def home():
+    return render_template('home.html')
+
+# tercer endpoint
+@app.route("/about", methods=["GET"])
+def about():
+    return render_template('about.html')
+
+# cuarto endpoint
+@app.route("/base", methods=["GET"])
+def base():
+    return render_template('base.html')
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
